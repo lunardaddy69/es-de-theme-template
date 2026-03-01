@@ -20,8 +20,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
    ///
    -->
    <variables>
-      <fontLight>./_inc/fonts/Mulish-Light.ttf</fontLight>
-      <fontRegular>./_inc/fonts/Mulish-Medium.ttf</fontRegular>
+      <fontLight>./_inc/fonts/Nunito-Italic-VariableFont_wght.ttf</fontLight>
+      <fontRegular>./_inc/fonts/Nunito-VariableFont_wght.ttf</fontRegular>
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
